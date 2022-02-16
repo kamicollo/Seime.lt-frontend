@@ -59,11 +59,7 @@
 
 	<div style="display:none">
 		<div id="contact">
-			<p class="contactP">Susisiekti su svetainės autoriais <a href="http://ernes7a.lt" title="ernes7a.lt">Ernesta</a> ir <a href="http://aurimas.eu" title="aurimas.eu">Aurimu</a> gali rašydamas el.laišką adresu <a href="mailto:info@seime.lt?subject=Seime.lt" title="info@seime.lt">info@seime.lt</a>. Taip pat mus rasi Twitter: <a href="http://twitter.com/ernes7a" title="Twitter: @ernes7a">@ernes7a</a> ir <a href="http://twitter.com/aurimas" title="Twitter: @Aurimas">@Aurimas</a>.</p>
-			
-			<p class="contactP">O jei nori Seimo darbo pulsą sekti dažniau, siūlome išbandyti mūsų <a href="https://www.facebook.com/Seime.lt" title="Facebook: Seime.lt">Facebook</a> ir <a href="https://twitter.com/SeimeLT" title="Twitter: @SeimeLT">Twitter</a> puslapius bei sekti posėdžių statistiką <a href="http://trumpai.seime.lt" title="Seime. Trumpai">Seime. Trumpai</a>.</p>
-			
-			<p>Galiausiai, jei dirbi su panašia idėja ir norėtum pagalbos naudojantis mūsų kodu ar duomenimis - mes visuomet pasiruošę padėti!</p>
+			<p class="contactP">Jei nori susisiekti su svetainės autoriais, jų kontaktus gali rasti <a href="https://github.com/kamicollo/Seime.lt-frontend">čia</a>.</p>				
 		</div>
 	</div>
 

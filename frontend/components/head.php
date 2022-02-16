@@ -50,7 +50,7 @@
 	<!--[if lt IE 9]>
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
 	<![endif]-->
-
+	<!--
 	<script type="text/javascript">
 		var _gaq = _gaq || [];
 		_gaq.push(["_setAccount", "UA-19315846-11"]);
@@ -64,5 +64,5 @@
 
 			var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
 		})();
-	</script>
+	</script> -->
 </head>
