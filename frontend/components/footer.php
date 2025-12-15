@@ -3,8 +3,8 @@
 		<li>
 			<h2>Seime.lt duomenys</h2>
 			<span>
-				Visus <a href="http://seime.lt" title="Seime.lt">Seime.lt</a> naudojamus Seimo narių lankomumo bei balsavimo duomenis surinkome iš <a href="http://lrs.lt" title="Lietuvos Respublikos Seimas">Lietuvos Respublikos Seimo</a> svetainės, juos apdorojome ir pateikiame naudoti SQL formatu (duomenų aprašymą rasi <em>README</em> dokumente). Duomenys pateikiami su <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="Creative Commons Attribution-NonCommercial-ShareAlike">Creative Commons licencija.</a><br/><br/>
-				<a href="http://seime.lt/downloads/seime.lt.gz" title="Seime.lt duomenys">
+				Visus <a href="<?php echo Initialisator::getBaseURL(); ?>" title="Seime.lt">Seime.lt</a> naudojamus Seimo narių lankomumo bei balsavimo duomenis surinkome iš <a href="http://lrs.lt" title="Lietuvos Respublikos Seimas">Lietuvos Respublikos Seimo</a> svetainės, juos apdorojome ir pateikiame naudoti SQL formatu (duomenų aprašymą rasi <em>README</em> dokumente). Duomenys pateikiami su <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="Creative Commons Attribution-NonCommercial-ShareAlike">Creative Commons licencija.</a><br/><br/>
+				<a href="<?php echo Initialisator::getBaseURL(); ?>/downloads/seime.lt.gz" title="Seime.lt duomenys">
 				Duomenys (<?php echo round(@filesize('downloads/seime.lt.gz') / 1048576,1);?>MB)
 				</a>
 			</span>
@@ -14,7 +14,7 @@
 			<h2>Seime.lt kodas</h2>
 			<span>
 				Taip pat siūlome parsisiųsti ir kodą, kuriuo visus duomenis surinkome bei apdorojome (dokumentacija ruošiama). Jis turėtų padėti, jei norėsi analizuoti informaciją kitais pjūviais ar surinkti daugiau susijusių duomenų. Tikimės, kad taip Lietuvoje atsiras dar ne vienas projektas, analizuojantis Seimo darbą.<br/><br/>
-				<a href="http://seime.lt/downloads/seimas-backend.tar.gz" title="Seime.lt kodas">PHP kodas (0.2MB)</a>
+				<a href="<?php echo Initialisator::getBaseURL(); ?>/downloads/seimas-backend.tar.gz" title="Seime.lt kodas">PHP kodas (0.2MB)</a>
 			</span>
 		</li>
 
@@ -29,7 +29,7 @@
 			
 			
 			<div id="plus">
-				<div class="g-plusone" data-size="medium" data-annotation="none" data-href="http://seime.lt"></div>
+				<div class="g-plusone" data-size="medium" data-annotation="none" data-href="<?php echo Initialisator::getBaseURL(); ?>"></div>
 			</div>
 			<script type="text/javascript">
 			  (function() {
