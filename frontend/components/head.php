@@ -24,7 +24,7 @@
 	<meta itemprop="description" content="Seime.lt aiškiai, patogiai ir patraukliai atvaizduoja svarbiausią su Seimo nariais susijusią statistiką: jų lankomumą bei balsavimo tendencijas.">
 	<meta itemprop="image" content="http://seime.lt/images/seime.png">
 	
-	<link rel="stylesheet" type="text/css" href="frontend/resources/style.css?ver=<?php echo date('Y-m-d', filemtime(dirname(__FILE__) . '/style.css')); ?>" />
+	<link rel="stylesheet" type="text/css" href="frontend/resources/style.css?ver=1.1" />
 	
 	<!-- jQuery -->
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
